@@ -14,13 +14,13 @@
         </thead>
         <tbody>
             <tr>
-                <td>Data Streaming</td>
+                <td>Streaming Data 101</td>
                 <td>1</td>
-                <td>Carolina Fernandez</td>
-                <td>COMPLETAR</td>
+                <td>Carolina Sol Fernandez</td>
+                <td>¿Crees que el streaming es sólo para audio y video? Cada vez necesitamos estar más conectados y consumir mucha información en un mundo en el que la velocidad de internet no ayuda. Vamos a ver soluciones que nos permitirán aprovechar al máximo los datos.</td>
             </tr>
             <tr>
-                <td>COMPLETAR</td>
+                <td>La revolución de los containers en Logística y en TI</td>
                 <td>2</td>
                 <td>Carlos Huerta<br>Gadiel Malagrino<br>Leonardo Segovia</td>
                 <td>La revolución de los containers en Logística y en TI:<br>Legendaria charla sobre cajitas de metal y cajitas de bytes.<br>¡Te inspirará a aprender sobre una revolucionaria tecnología con el potencial de cambiar tu vida para siempre!</td>
