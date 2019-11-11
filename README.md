@@ -26,7 +26,7 @@
                 <td>La revolución de los containers en Logística y en TI:<br>Legendaria charla sobre cajitas de metal y cajitas de bytes.<br>¡Te inspirará a aprender sobre una revolucionaria tecnología con el potencial de cambiar tu vida para siempre!</td>
             </tr>
             <tr>
-                <td>COMPLETAR</td>
+                <td>Diseño de las cosas orientado en el usuario</td>
                 <td>3</td>
                 <td>Denis Almanza<br>Melisa Amaya</td>
                 <td>Diseño de las cosas orientado en el usuario.<br>¿Pensás en la gente, a la hora de trabajar en un producto? ¿Sólo los diseñadores pueden dedicarse al UX?<br>¡Enfocate en prponer soluciones intuitivas comprensibles para tus clientes!<br>Te invitamos a ponerte en los zapatos de ellos.</td>
