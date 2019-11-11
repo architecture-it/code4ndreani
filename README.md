@@ -1,3 +1,11 @@
 # code4ndreani
 <img src="code4ndreani_logo.PNG" style="float: left; margin-right: 10px;"/>
-Repo de las charlas de code4ndreani
+</br>
+<h1>Repo de las charlas de code4ndreani</h1>
+<h2>Listado de Charlas</h2>
+| Charla                         | Orden | Orador@s                                              | Descripción                                                                                                                                                                                                                                                                                        |
+|--------------------------------|-------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                | 1     | Carolina Fernandez                                    |                                                                                                                                                                                                                                                                                                    |
+|                                | 2     | Carlos Huerta<br>Gadiel Malagrino<br>Leonardo Segovia | La revolución de los containers en Logística y en TI:<br>Legendaria charla sobre cajitas de metal y cajitas de bytes.<br>¡Te inspirará a aprender sobre una revolucionaria tecnología con el potencial de cambiar tu vida para siempre!                                                            |
+|                                | 3     | Denis Almanza<br>Melisa Amaya                         | Diseño de las cosas orientado en el usuario.<br>¿Pensás en la gente, a la hora de trabajar en un producto? ¿Sólo los diseñadores pueden dedicarse al UX?<br>¡Enfocate en prponer soluciones intuitivas comprensibles para tus clientes!<br>Te invitamos a ponerte en los zapatos de ellos.         |
+| Data Analytics en la Vida Real | 4     | Joaquin Santini                                       | Los datos en la transformación digital:<br>¿Data Analytics? ¿Qué es eso? ¿Es el área que se ocupa de analizar datos?<br>¡En este charla vas a entender nuestro día a día y qué herramientas utilizamos!<br>Bonus: 3 ejemplos de la vida real, incluido un modelo predictivo de Machine Learning ;) |
